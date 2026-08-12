@@ -1,0 +1,6 @@
+{
+  "name": "GS Gacuba II A Portal",
+  "description": "Official school website portal for Groupe Scolaire Gacuba II A (G.S Gacuba II A) in Gisenyi, Rubavu District. Offering O'Level, A'Level MPC (Math, Physics, Computer Science), HGL (History, Geography, Language) and active sports programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
